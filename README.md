@@ -14,9 +14,8 @@ This is the Home Page of the website with 4 sections: Prospective Employees, Emp
 <br><p><br>The Office of Labor and Employee Relations offers counsel and support services to HR managers and employees on labor/management and employee relations issues.</p><br>
 <a href="url"><img src="https://github.com/sbajaj7/UIC-Human-Resource-ReVamp/blob/master/four.PNG" align="left" height="800" width="1000" ></a>
 <br><p><br>At HR Staff & Managers page we have several portlets for various showing latest news & calendar events.</p><br>
-<a href="url"><img src="https://github.com/sbajaj7/UIC-Human-Resource-ReVamp/blob/master/five.PNG" align="left" height="800" width="1000" ></a>
-<br><p><br>On the Home page again we have portlets for news and other Key Events, which gets refreshed automatically and displays latest events n content.</p><br>
+<a href="url"><img src="https://github.com/sbajaj7/UIC-Human-Resource-ReVamp/blob/master/five.PNG" align="left" height="800" width="1000" ></a><br><p><br>At Employees page and on various sub-pages we have drop down lists, which contain several sub-items for various sections.</p><br>
 <a href="url"><img src="https://github.com/sbajaj7/UIC-Human-Resource-ReVamp/blob/master/six.PNG" align="left" height="800" width="1000" ></a>
-<br><p><br>At Employees page and on various sub-pages we have drop down lists, which contain several sub-items for various sections.</p><br>
+<br><p><br>On the Home page again we have portlets for news and other Key Events, which gets refreshed automatically and displays latest events n content.</p><br>
 <a href="url"><img src="https://github.com/sbajaj7/UIC-Human-Resource-ReVamp/blob/master/seven.PNG" align="left" height="800" width="1000" ></a>
 </p>
