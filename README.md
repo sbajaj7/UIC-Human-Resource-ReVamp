@@ -2,7 +2,7 @@
 This repository contains snapshots of the improved version of University of Illinois's Human Resource Website, which I  developed, while working as a Web Developer at UIC. 
 I have used Html, Css, JavaScript, JQuery, XSLT & SitePublish tools for writing the code.
 <p>UIC Human Resources is committed to providing timely and effective support through human resource management expertise for faculty, staff and administrators. This version of our website is still under development and will be replacing the current UIC's Human Resource Website entirely.</p>
-
+<p>These pages are cross-browser compatible and mobile responsive.</p>
 
 <p>
 <a href="url"><img src="https://github.com/sbajaj7/UIC-Human-Resource-ReVamp/blob/master/one.PNG" align="left" height="800" width="1000" ></a><br>
@@ -18,4 +18,5 @@ This is the Home Page of the website with 4 sections: Prospective Employees, Emp
 <a href="url"><img src="https://github.com/sbajaj7/UIC-Human-Resource-ReVamp/blob/master/six.PNG" align="left" height="800" width="1000" ></a>
 <br><p><br>On the Home page again we have portlets for news and other Key Events, which gets refreshed automatically and displays latest events n content.</p><br>
 <a href="url"><img src="https://github.com/sbajaj7/UIC-Human-Resource-ReVamp/blob/master/seven.PNG" align="left" height="800" width="1000" ></a>
+<br><p><br>We are using Google Custom Search functionality for displaying the search results to the user.</p><br>
 </p>
